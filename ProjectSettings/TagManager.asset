@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Missile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - bac
+  - CNVDa
+  - CNVPhan
+  - player
+  - CNVThanhChan
+  - dich
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: bac
+    uniqueID: 1702254275
+    locked: 0
+  - name: Cau
+    uniqueID: 512921573
+    locked: 0
+  - name: CNV
+    uniqueID: 3696275567
+    locked: 0
+  - name: vatpham
+    uniqueID: 3184285865
+    locked: 0
+  - name: Meo
+    uniqueID: 1133980787
+    locked: 0
+  - name: nhanVat
+    uniqueID: 65889831
+    locked: 0

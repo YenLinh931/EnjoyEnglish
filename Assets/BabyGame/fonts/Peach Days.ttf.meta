@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 1a4288bbd5e363e4ea2680cf81922256
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Peach Days
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9d28316dc76711a4ca8ff5fcd6656d05, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
